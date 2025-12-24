@@ -9,8 +9,6 @@ All trained models are stored in a single Google Drive folder:
 
 ## 🧠 Included Architectures
 
-This project benchmarks four convolutional neural network architectures for garbage classification:
-
 - **CNN from Scratch** – trained end-to-end without pretrained weights.
 - **ResNet50** – pretrained on ImageNet, fine-tuned on garbage dataset.
 - **MobileNetV2** – pretrained on ImageNet, fine-tuned on garbage dataset.
