@@ -4,6 +4,29 @@
 
 # Garbage Classification with Transfer Learning
 
+## 📑 Table of Contents
+1. [Project Title & Badges](#project-title--badges)
+2. [Overview](#overview)
+3. [Motivation](#motivation)
+4. [Dataset](#dataset)
+5. [Environment & Dependencies](#environment--dependencies)
+6. [Setup & Installation](#setup--installation)
+7. [Model Architectures](#model-architectures)
+8. [Comparative Analysis](#comparative-analysis)
+9. [Experimental Configuration](#experimental-configuration)
+10. [Usage](#usage)
+11. [Visual Evaluation](#visual-evaluation)
+12. [Results Summary](#results-summary)
+13. [Qualitative Insights](#qualitative-insights)
+14. [Key Takeaways](#key-takeaways)
+15. [Future Directions](#future-directions)
+16. [Project Structure](#project-structure)
+17. [Reproducibility and Transparency](#reproducibility-and-transparency)
+18. [License](#license)
+19. [Author](#author)
+
+---
+
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.15-FF6F00?logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-2.15-D00000?logo=keras&logoColor=white)
