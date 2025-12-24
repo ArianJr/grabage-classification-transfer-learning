@@ -293,8 +293,6 @@ All plots are embedded below for direct inspection. Original high-resolution fil
 
 ## Project Structure
 
-## Project Structure
-
 | Path / File | Description |
 |------------|-------------|
 | `dataset/` | Image dataset directory containing garbage classification images |
