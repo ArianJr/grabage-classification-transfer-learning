@@ -82,9 +82,9 @@ cd garbage-classification-transfer-learning
 ```bash
 pip install -r requirements.txt
 ```
-4. Launch the notebook:
+3. Launch the notebook:
 ```bash
-jupyter notebook Garbage_Classification.ipynb
+jupyter notebook transfer_learning_garbage_classification.ipynb
 ```
 
 ---
