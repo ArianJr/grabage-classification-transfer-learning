@@ -8,10 +8,13 @@ All trained models are stored in a single Google Drive folder:
 [Access Models Here](https://drive.google.com/drive/folders/1vJXIkJczFYWPh-UUW8k6wE00_9qX9FH-?usp=drive_link)
 
 ## 🧠 Included Architectures
-- CNN from Scratch
-- ResNet50 (pretrained + fine-tuned)
-- MobileNetV2 (transfer learning)
-- EfficientNetB0 (transfer learning)
+
+This project benchmarks four convolutional neural network architectures for garbage classification:
+
+- **CNN from Scratch** – trained end-to-end without pretrained weights.
+- **ResNet50** – pretrained on ImageNet, fine-tuned on garbage dataset.
+- **MobileNetV2** – pretrained on ImageNet, fine-tuned on garbage dataset.
+- **EfficientNetB0** – pretrained on ImageNet, fine-tuned on garbage dataset.
 
 ## ⚙️ Usage
 After downloading, place the `.h5` files in the `models/` directory before running evaluation scripts.
