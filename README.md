@@ -21,7 +21,7 @@ Automatic garbage classification plays a vital role in **modern waste management
 
 This project benchmarks a **baseline CNN** against state-of-the-art **pretrained architectures** including **ResNet50, MobileNetV2, and EfficientNetB0** to provide insights into the **accuracy–efficiency trade-offs** critical for both research and real-world deployment of image-based waste sorting systems.  
 
-*Repository:* [GitHub – Garbage Classification Transfer Learning](https://github.com/ArianJr/grabage-classification-transfer-learning)
+*Repository:* [GitHub – Garbage Classification Transfer Learning](https://github.com/ArianJr/garbage-classification-transfer-learning)
 
 ---
 
