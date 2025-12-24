@@ -87,8 +87,8 @@ This level of analysis is essential for understanding real-world model behavior 
 ### Cross‑Model Comparison
 The overall comparison plot highlights differences in convergence and accuracy across all models:
 
-![Accuracy Comparison Plot](assets/models_comparison_acc.png)
-![Loss Comparison Plot](assets/models_comparison_loss.png)
+![Accuracy Comparison Plot](results/models_comparison_acc.png)
+![Loss Comparison Plot](results/models_comparison_loss.png)
 
 ---
 
