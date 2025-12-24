@@ -69,7 +69,6 @@ These visualizations provide insight into:
 
 Maintaining all curves supports transparent and evidence-based model selection.
 
----
 
 ### Confusion Matrix Heatmaps
 
@@ -85,15 +84,77 @@ This level of analysis is essential for understanding real-world model behavior 
 
 ---
 
+### Cross‑Model Comparison
+The overall comparison plot highlights differences in convergence and accuracy across all models:
+
+![Accuracy Comparison Plot](assets/models_comparison_acc.png)
+![Loss Comparison Plot](assets/models_comparison_loss.png)
+
+---
+
+### Model‑Specific Diagnostics
+
+<details>
+<summary>CNN from Scratch</summary>
+
+**Loss & Accuracy Curves**
+<img src="results/acc_curve_cnn.png" width="400">
+<img src="results/loss_curve_cnn.png" width="400">
+
+**Confusion Matrix**
+<img src="results/confusion_matrix_heatmap_cnn.png" width="400">
+
+</details>
+
+<details>
+<summary>ResNet50</summary>
+
+**Loss & Accuracy Curves**
+<img src="results/acc_curve_resnet.png" width="400">
+<img src="results/loss_curve_resnet.png" width="400">
+
+**Confusion Matrix**
+<img src="results/confusion_matrix_heatmap_resnet.png" width="400">
+
+</details>
+
+<details>
+<summary>MobileNetV2</summary>
+
+**Loss & Accuracy Curves**
+<img src="results/acc_curve_mobilenet.png" width="400">
+<img src="results/loss_curve_mobilenet.png" width="400">
+
+**Confusion Matrix**
+<img src="results/confusion_matrix_heatmap_mobilenet.png" width="400">
+
+</details>
+
+<details>
+<summary>EfficientNetB0</summary>
+
+**Loss & Accuracy Curves**
+<img src="results/acc_curve_efficientnet.png" width="400">
+<img src="results/loss_curve_efficientnet.png" width="400">
+
+**Confusion Matrix**
+<img src="results/confusion_matrix_heatmap_efficientnet.png" width="400">
+
+</details>
+
+All plots are embedded below for direct inspection. Original high-resolution files are also stored in the [`results/`](results/) directory.
+
+---
+
 ## Results Summary
 
 ### Quantitative Performance Overview
 
-| Model            | Accuracy | Relative Performance | Key Observations                                |
-|-----------------|----------|--------------------|-----------------------------------------------|
+| Model            | Accuracy | Relative Performance | Key Observations                            |
+|------------------|----------|--------------------|-----------------------------------------------|
 | CNN from Scratch | 43.3%    | Lowest             | Limited generalization, slower convergence    |
-| ResNet50         | 91.2%    | High               | Stable training, strong feature extraction    |
-| MobileNetV2      | 90.2%    | Very High          | Optimal balance of accuracy and efficiency    |
+| ResNet50         | 91.2%    | Very High          | Stable training, strong feature extraction    |
+| MobileNetV2      | 90.2%    | High               | Optimal balance of accuracy and efficiency    |
 | EfficientNetB0   | 92.2%    | Very High          | Consistent accuracy with compact architecture |
 
 > Exact numerical metrics are reported in the notebook to preserve experimental integrity.
