@@ -71,10 +71,6 @@ This intentionally small subset highlights **transfer learning’s ability to ge
 
 1. Clone the repository:
 ```bash
-## Setup & Installation
-
-1. Clone the repository:
-```bash
 git clone https://github.com/ArianJr/garbage-classification-transfer-learning.git
 cd garbage-classification-transfer-learning
 ```
