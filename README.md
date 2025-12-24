@@ -4,33 +4,32 @@
 
 # Garbage Classification with Transfer Learning
 
-## 📑 Table of Contents
-1. [Project Title & Badges](#project-title--badges)
-2. [Overview](#overview)
-3. [Motivation](#motivation)
-4. [Dataset](#dataset)
-5. [Environment & Dependencies](#environment--dependencies)
-6. [Setup & Installation](#setup--installation)
-7. [Model Architectures](#model-architectures)
-8. [Comparative Analysis](#comparative-analysis)
-9. [Experimental Configuration](#experimental-configuration)
-10. [Usage](#usage)
-11. [Visual Evaluation](#visual-evaluation)
-12. [Results Summary](#results-summary)
-13. [Qualitative Insights](#qualitative-insights)
-14. [Key Takeaways](#key-takeaways)
-15. [Future Directions](#future-directions)
-16. [Project Structure](#project-structure)
-17. [Reproducibility and Transparency](#reproducibility-and-transparency)
-18. [License](#license)
-19. [Author](#author)
-
----
-
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.15-FF6F00?logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-2.15-D00000?logo=keras&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-2EA44F?logo=open-source-initiative&logoColor=white)
+
+---
+
+## Table of Contents
+1. [Overview](#overview)
+2. [Motivation](#motivation)
+3. [Dataset](#dataset)
+4. [Environment & Dependencies](#environment--dependencies)
+5. [Setup & Installation](#setup--installation)
+6. [Model Architectures](#model-architectures)
+7. [Comparative Analysis](#comparative-analysis)
+8. [Experimental Configuration](#experimental-configuration)
+9. [Usage](#usage)
+10. [Visual Evaluation](#visual-evaluation)
+11. [Results Summary](#results-summary)
+12. [Qualitative Insights](#qualitative-insights)
+13. [Key Takeaways](#key-takeaways)
+14. [Future Directions](#future-directions)
+15. [Project Structure](#project-structure)
+16. [Reproducibility and Transparency](#reproducibility-and-transparency)
+17. [License](#license)
+18. [Author](#author)
 
 ---
 
