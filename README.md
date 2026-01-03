@@ -322,3 +322,9 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 
 **Author:** *Arian Jr*  
 **Focus Areas:** Computer Vision · Deep Learning · Transfer Learning  
+
+---
+
+<p align="center">
+  <sub>⭐ If you found this project useful, please consider giving it a star! It helps others discover it and supports my work.</sub>
+</p>
